@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+GVSU VIDEOKIOSK PROJECT:
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+
+GOALS OF THIS PROJECT:
+
+• write compile and run a simple Java class 
+• write expressions using variables • write methods to meet specific requirements 
+• explain the differences between local variables, instance variables and method parameters
+• write conditional statements with Boolean expressions
